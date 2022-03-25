@@ -5,5 +5,7 @@ public class TestDemo extends Demo {
         Demo d1 = (Demo) d.clone();
         d1.x = 50;
         System.out.println(d1.x);
+
+        System.out.println("Anas");
     }
 }
